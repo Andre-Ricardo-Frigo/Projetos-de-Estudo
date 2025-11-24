@@ -1,6 +1,4 @@
 #include <stdio.h> 
-#include <stdlib.h>
-#include <string.h> 
 
 int main() {
     float carrinho[10][3], valorTotal = 0, precos[] = {5.5f, 7.2f, 4.0f, 3.8f, 2.5f};
